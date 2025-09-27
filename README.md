@@ -33,5 +33,3 @@ GlowCindy adalah brand skincare yang fokus pada produk alami dan aman untuk berb
 3. Pastikan koneksi internet aktif untuk mengakses Tailwind CSS CDN dan gambar dari Unsplash.
 
 ---
-
-## Struktur Folder (Opsional)
