@@ -1,15 +1,37 @@
-# 🌐 Website Perusahaan - Nasgunawann
+# GlowCindy Skincare Website
 
-Website resmi perusahaan **Nasgunawann** — sebuah perusahaan fiktif yang bergerak di bidang teknologi dan layanan digital. Website ini dibuat sebagai bagian dari latihan mini project (RevoU).
+Website ini merupakan proyek sederhana untuk menampilkan brand skincare bernama **GlowCindy**. Website ini dibuat menggunakan HTML dan Tailwind CSS untuk desain yang responsif dan modern.
 
-## ✨ Fitur Utama
+---
 
-- ✅ Tampilan responsif (mobile dan desktop)
-- ✅ Navigasi antar halaman menggunakan anchor
-- ✅ Komponen:
-  - Halaman Home dengan sambutan personal menggunakan JavaScript
-  - Halaman Profile (banner, tentang perusahaan, visi & misi)
-  - Halaman Portfolio (3 proyek fiktif)
-  - Halaman Message Us dengan validasi form dan preview data
-- ✅ Desain modern dengan Tailwind CSS
-- ✅ Placeholder gambar dari [Unsplash](https://unsplash.com)
+## Deskripsi
+
+GlowCindy adalah brand skincare yang fokus pada produk alami dan aman untuk berbagai jenis kulit. Website ini berfungsi sebagai media informasi produk, profil perusahaan, dan juga menyediakan formulir konsultasi untuk membantu pelanggan memilih produk yang tepat.
+
+---
+
+## Fitur
+
+- **Beranda (Home):** Sambutan dan pengenalan brand GlowCindy.
+- **Tentang Kami (About):** Informasi visi, misi, dan latar belakang perusahaan.
+- **Produk (Products):** Daftar produk skincare dengan deskripsi singkat.
+- **Konsultasi Kulit (Consult):** Formulir untuk pengunjung mengisi jenis kulit dan keluhan agar mendapatkan rekomendasi produk.
+
+---
+
+## Teknologi yang digunakan
+
+- HTML5
+- Tailwind CSS (via CDN)
+
+---
+
+## Cara Menjalankan
+
+1. Clone repository ini atau salin kode HTML yang tersedia.
+2. Buka file `index.html` di browser favorit kamu.
+3. Pastikan koneksi internet aktif untuk mengakses Tailwind CSS CDN dan gambar dari Unsplash.
+
+---
+
+## Struktur Folder (Opsional)
